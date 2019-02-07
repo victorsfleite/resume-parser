@@ -1,0 +1,81 @@
+{
+    "name": "Aaron",
+    "surname": "Lim",
+    "fullName": "Aaron Lim",
+    "emailAddress": "lmzhdrn@gmail.com",
+    "summary": "N\/A",
+    "interests": "",
+    "skills": [],
+    "currentRole": {
+        "title": "Integrated Senior Planner",
+        "organisation": "Havas Media Group",
+        "summary": null,
+        "start": {
+            "date": "2015-01-01 00:00:00.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "end": null
+    },
+    "previousRoles": [
+        {
+            "title": "Media Planner",
+            "organisation": "ZenithOptimedia Group I The ROI Agency",
+            "summary": "Assists clients in proposing and conceptualizing ideas for both offline and online media investment\\r\\nManages and monitor digital media progress for clients\\r\\nLiaised and handled communications from external agencies to with clients\\r\\nEstablish and ensures communications with clients to facilitate precise media planning\\r\\nPrepares progress reports for clients on campaign level \\r\\nProvide clients with administrative assistance\\r\\nOther ad-hoc duties and secretarial work",
+            "start": {
+                "date": "2012-01-01 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "end": {
+                "date": "2015-01-01 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "title": "Consultant",
+            "organisation": "Brand-Cellar Pte Ltd",
+            "summary": "Managed and monitored marketing progress for clients\\r\\nAssisted clients in proposing and conceptualizing ideas for internal and external events\\r\\nIn charge of planning and coordinating media launches and marketing events \\r\\nProvided clients with administrative assistance\\r\\nLiaised and handled communications from external agencies to with clients\\r\\nPrepared monthly updates for media exposure to clients\\r\\nOther ad-hoc duties and secretarial work",
+            "start": {
+                "date": "2009-01-01 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "end": {
+                "date": "2012-01-01 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "educationEntries": [
+        {
+            "level": "Bachelor in Mass Communications",
+            "course_title": "Double Majors: Public Relations and Communication Policy & Technology",
+            "institution": "Murdoch University",
+            "grade": null,
+            "activities_and_societies": null,
+            "start": {
+                "date": "2008-01-01 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "end": {
+                "date": "2009-01-01 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "certifications": [],
+    "volunteerExperienceEntries": [],
+    "languages": [],
+    "honorsAndAwards": [],
+    "organizations": [],
+    "courses": [],
+    "projects": [],
+    "recommendations": [],
+    "testScores": [],
+    "url": "http:\/\/www.linkedin.com\/in\/aaron-lim-9a167b80"
+}

@@ -1,0 +1,36 @@
+{
+    "name": "akhileshdarjee/linkedin-resume-parser",
+    "type": "library",
+    "description": "Parses LinkedIn PDF resumes from recruitment portal into a set of usable entities",
+    "keywords": [
+        "linkedin",
+        "pdf",
+        "resume",
+        "parser",
+        "hr-recruitment-portal"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akhilesh Darjee",
+            "email": "akhileshdarjee@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^0.10.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.0",
+        "mockery/mockery": "^0.9.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "LinkedInResumeParser\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LinkedInResumeParser\\Tests\\": "tests/"
+        }
+    }
+}
